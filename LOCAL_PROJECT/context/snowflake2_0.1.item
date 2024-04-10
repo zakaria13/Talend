@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_GpsGgNuZEe2z193LXs-iPw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_GpsGgduZEe2z193LXs-iPw" comment="" name="snowflake2_account" prompt="snowflake2_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="jz14974.eu-west-3.aws"/>
+  <contextParameter xmi:id="_GpsGgtuZEe2z193LXs-iPw" comment="" name="snowflake2_oauthProperties_oauthTokenEndpoint" prompt="snowflake2_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGg9uZEe2z193LXs-iPw" comment="" name="snowflake2_role" prompt="snowflake2_role?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGhNuZEe2z193LXs-iPw" comment="" name="snowflake2_jdbcParameters" prompt="snowflake2_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGhduZEe2z193LXs-iPw" comment="" name="snowflake2_oauthProperties_clientSecret" prompt="snowflake2_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_GpsGhtuZEe2z193LXs-iPw" comment="" name="snowflake2_oauthProperties_oauthUserName" prompt="snowflake2_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGh9uZEe2z193LXs-iPw" comment="" name="snowflake2_userPassword_userId" prompt="snowflake2_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="mokrizakarya"/>
+  <contextParameter xmi:id="_GpsGiNuZEe2z193LXs-iPw" comment="" name="snowflake2_db" prompt="snowflake2_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="TEST_MS_BI"/>
+  <contextParameter xmi:id="_GpsGiduZEe2z193LXs-iPw" comment="" name="snowflake2_oauthProperties_clientId" prompt="snowflake2_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGituZEe2z193LXs-iPw" comment="" name="snowflake2_userPassword_password" prompt="snowflake2_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:iiFWH4xKPjNja0Pj3kKZ4m6BU+R8I0gU85Uj9xSqx2MdXni9M+rjwLw="/>
+  <contextParameter xmi:id="_GpsGi9uZEe2z193LXs-iPw" comment="" name="snowflake2_keyAlias" prompt="snowflake2_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGjNuZEe2z193LXs-iPw" comment="" name="snowflake2_loginTimeout" prompt="snowflake2_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_GpsGjduZEe2z193LXs-iPw" comment="" name="snowflake2_regionID" prompt="snowflake2_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGjtuZEe2z193LXs-iPw" comment="" name="snowflake2_warehouse" prompt="snowflake2_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="DW_MS_BI"/>
+  <contextParameter xmi:id="_GpsGj9uZEe2z193LXs-iPw" comment="" name="snowflake2_oauthProperties_scope" prompt="snowflake2_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_GpsGkNuZEe2z193LXs-iPw" comment="" name="snowflake2_oauthProperties_oauthPassword" prompt="snowflake2_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_GpsGkduZEe2z193LXs-iPw" comment="" name="snowflake2_schemaName" prompt="snowflake2_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="PUBLIC"/>
+</talendfile:ContextType>

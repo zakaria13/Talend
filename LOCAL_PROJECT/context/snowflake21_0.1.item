@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_tYLUENuaEe2z193LXs-iPw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_tYLUEduaEe2z193LXs-iPw" comment="" name="snowflake21_oauthProperties_oauthPassword" prompt="snowflake21_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_tYLUEtuaEe2z193LXs-iPw" comment="" name="snowflake21_account" prompt="snowflake21_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="jz14974.eu-west-3.aws"/>
+  <contextParameter xmi:id="_tYLUE9uaEe2z193LXs-iPw" comment="" name="snowflake21_oauthProperties_clientId" prompt="snowflake21_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUFNuaEe2z193LXs-iPw" comment="" name="snowflake21_oauthProperties_scope" prompt="snowflake21_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUFduaEe2z193LXs-iPw" comment="" name="snowflake21_oauthProperties_oauthUserName" prompt="snowflake21_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUFtuaEe2z193LXs-iPw" comment="" name="snowflake21_role" prompt="snowflake21_role?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUF9uaEe2z193LXs-iPw" comment="" name="snowflake21_keyAlias" prompt="snowflake21_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUGNuaEe2z193LXs-iPw" comment="" name="snowflake21_regionID" prompt="snowflake21_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUGduaEe2z193LXs-iPw" comment="" name="snowflake21_warehouse" prompt="snowflake21_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="DW_MS_BI"/>
+  <contextParameter xmi:id="_tYLUGtuaEe2z193LXs-iPw" comment="" name="snowflake21_userPassword_password" prompt="snowflake21_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:hw3CWoZGq8+brAgFfCQxnpntfvPjR4GGfqHSa7kgWg7jAKcp7XnEKeo="/>
+  <contextParameter xmi:id="_tYLUG9uaEe2z193LXs-iPw" comment="" name="snowflake21_oauthProperties_oauthTokenEndpoint" prompt="snowflake21_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUHNuaEe2z193LXs-iPw" comment="" name="snowflake21_schemaName" prompt="snowflake21_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="TPCH_SF10"/>
+  <contextParameter xmi:id="_tYLUHduaEe2z193LXs-iPw" comment="" name="snowflake21_db" prompt="snowflake21_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="SNOWFLAKE_SAMPLE_DATA"/>
+  <contextParameter xmi:id="_tYLUHtuaEe2z193LXs-iPw" comment="" name="snowflake21_oauthProperties_clientSecret" prompt="snowflake21_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_tYLUH9uaEe2z193LXs-iPw" comment="" name="snowflake21_jdbcParameters" prompt="snowflake21_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_tYLUINuaEe2z193LXs-iPw" comment="" name="snowflake21_loginTimeout" prompt="snowflake21_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_tYLUIduaEe2z193LXs-iPw" comment="" name="snowflake21_userPassword_userId" prompt="snowflake21_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="mokrizakarya"/>
+</talendfile:ContextType>

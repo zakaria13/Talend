@@ -1,0 +1,51 @@
+{
+  "itemId" : "_Juz6ML6WEe2c15keqg4LUw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Bbe7oL6iEe2Qx-D3llZaiQ",
+    "parameterList" : [ {
+      "id" : "_Bbwodb6iEe2Qx-D3llZaiQ",
+      "name" : "departement"
+    }, {
+      "id" : "_BbwodL6iEe2Qx-D3llZaiQ",
+      "name" : "employe"
+    }, {
+      "id" : "_Bbwodr6iEe2Qx-D3llZaiQ",
+      "name" : "jobs"
+    }, {
+      "id" : "_Bbwocb6iEe2Qx-D3llZaiQ",
+      "name" : "rep_files"
+    }, {
+      "id" : "_Bbwocr6iEe2Qx-D3llZaiQ",
+      "name" : "rep_inputs"
+    }, {
+      "id" : "_Bbwoc76iEe2Qx-D3llZaiQ",
+      "name" : "rep_outputs"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_toZ-EL5yEe28IqxhyxKsLw",
+    "parameterList" : [ {
+      "id" : "_top1t75yEe28IqxhyxKsLw",
+      "name" : "tp_AdditionalParams"
+    }, {
+      "id" : "_top1s75yEe28IqxhyxKsLw",
+      "name" : "tp_Database"
+    }, {
+      "id" : "_top1tL5yEe28IqxhyxKsLw",
+      "name" : "tp_Login"
+    }, {
+      "id" : "_top1tr5yEe28IqxhyxKsLw",
+      "name" : "tp_Password"
+    }, {
+      "id" : "_top1tb5yEe28IqxhyxKsLw",
+      "name" : "tp_Port"
+    }, {
+      "id" : "_top1sb5yEe28IqxhyxKsLw",
+      "name" : "tp_Schema"
+    }, {
+      "id" : "_top1sr5yEe28IqxhyxKsLw",
+      "name" : "tp_Server"
+    } ]
+  } ]
+}

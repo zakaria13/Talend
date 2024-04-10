@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_YhYskL5oEe2V-apPK2JTQA" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_nxmuUL5oEe2V-apPK2JTQA" comment="" name="rep_inputs" prompt="rep_inputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/inputs/"/>
+    <contextParameter xmi:id="_nxmuUb5oEe2V-apPK2JTQA" comment="" name="rep_outputs" prompt="rep_outputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/outputs/"/>
+    <contextParameter xmi:id="_nxmuUr5oEe2V-apPK2JTQA" comment="" name="rep_files" prompt="rep_files?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/files/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_5ep-4L5oEe2V-apPK2JTQA" confirmationNeeded="false" name="envir">
+    <contextParameter xmi:id="_5ep-4b5oEe2V-apPK2JTQA" comment="" name="rep_inputs" prompt="rep_inputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/inputs/"/>
+    <contextParameter xmi:id="_5ep-4r5oEe2V-apPK2JTQA" comment="" name="rep_outputs" prompt="rep_outputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/outputs/"/>
+    <contextParameter xmi:id="_5ep-475oEe2V-apPK2JTQA" comment="" name="rep_files" prompt="rep_files?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/files/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

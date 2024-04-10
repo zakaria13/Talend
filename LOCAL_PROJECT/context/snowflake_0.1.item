@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_H0WYQNuYEe2z193LXs-iPw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_H0WYQduYEe2z193LXs-iPw" comment="" name="snowflake_jdbcParameters" prompt="snowflake_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYQtuYEe2z193LXs-iPw" comment="" name="snowflake_regionID" prompt="snowflake_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYQ9uYEe2z193LXs-iPw" comment="" name="snowflake_userPassword_password" prompt="snowflake_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:4YYu50NMRwof9QK+4F258lgHTP+ay1WoLXc6Wh64GHVRJUwZCneY6tg="/>
+  <contextParameter xmi:id="_H0WYRNuYEe2z193LXs-iPw" comment="" name="snowflake_loginTimeout" prompt="snowflake_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_H0WYRduYEe2z193LXs-iPw" comment="" name="snowflake_account" prompt="snowflake_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="jz14974.eu-west-3.aws"/>
+  <contextParameter xmi:id="_H0WYRtuYEe2z193LXs-iPw" comment="" name="snowflake_keyAlias" prompt="snowflake_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYR9uYEe2z193LXs-iPw" comment="" name="snowflake_db" prompt="snowflake_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="SNOWFLAKE_SAMPLE_DATA"/>
+  <contextParameter xmi:id="_H0WYSNuYEe2z193LXs-iPw" comment="" name="snowflake_userPassword_userId" prompt="snowflake_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="mokrizakarya"/>
+  <contextParameter xmi:id="_H0WYSduYEe2z193LXs-iPw" comment="" name="snowflake_oauthProperties_oauthTokenEndpoint" prompt="snowflake_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYStuYEe2z193LXs-iPw" comment="" name="snowflake_warehouse" prompt="snowflake_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="DW_MS_BI"/>
+  <contextParameter xmi:id="_H0WYS9uYEe2z193LXs-iPw" comment="" name="snowflake_oauthProperties_scope" prompt="snowflake_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYTNuYEe2z193LXs-iPw" comment="" name="snowflake_oauthProperties_oauthPassword" prompt="snowflake_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_H0WYTduYEe2z193LXs-iPw" comment="" name="snowflake_oauthProperties_clientSecret" prompt="snowflake_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_H0WYTtuYEe2z193LXs-iPw" comment="" name="snowflake_role" prompt="snowflake_role?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYT9uYEe2z193LXs-iPw" comment="" name="snowflake_oauthProperties_clientId" prompt="snowflake_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYUNuYEe2z193LXs-iPw" comment="" name="snowflake_oauthProperties_oauthUserName" prompt="snowflake_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_H0WYUduYEe2z193LXs-iPw" comment="" name="snowflake_schemaName" prompt="snowflake_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="TPCH_SF10"/>
+</talendfile:ContextType>

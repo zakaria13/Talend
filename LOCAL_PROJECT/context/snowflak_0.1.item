@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_kvxwUNuZEe2z193LXs-iPw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_kvxwUduZEe2z193LXs-iPw" comment="" name="snowflak_oauthProperties_oauthTokenEndpoint" prompt="snowflak_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwUtuZEe2z193LXs-iPw" comment="" name="snowflak_oauthProperties_clientSecret" prompt="snowflak_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_kvxwU9uZEe2z193LXs-iPw" comment="" name="snowflak_loginTimeout" prompt="snowflak_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_kvxwVNuZEe2z193LXs-iPw" comment="" name="snowflak_jdbcParameters" prompt="snowflak_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwVduZEe2z193LXs-iPw" comment="" name="snowflak_userPassword_password" prompt="snowflak_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:suj36sVFcdlcG2rQKP8rVeQvQEfv5VrBjXE1FaKp25u+3ZlfFzbupN0="/>
+  <contextParameter xmi:id="_kvxwVtuZEe2z193LXs-iPw" comment="" name="snowflak_keyAlias" prompt="snowflak_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwV9uZEe2z193LXs-iPw" comment="" name="snowflak_oauthProperties_clientId" prompt="snowflak_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwWNuZEe2z193LXs-iPw" comment="" name="snowflak_role" prompt="snowflak_role?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwWduZEe2z193LXs-iPw" comment="" name="snowflak_regionID" prompt="snowflak_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwWtuZEe2z193LXs-iPw" comment="" name="snowflak_schemaName" prompt="snowflak_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="PUBLIC"/>
+  <contextParameter xmi:id="_kvxwW9uZEe2z193LXs-iPw" comment="" name="snowflak_account" prompt="snowflak_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="jz14974.eu-west-3.aws"/>
+  <contextParameter xmi:id="_kvxwXNuZEe2z193LXs-iPw" comment="" name="snowflak_userPassword_userId" prompt="snowflak_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="mokrizakarya"/>
+  <contextParameter xmi:id="_kvxwXduZEe2z193LXs-iPw" comment="" name="snowflak_oauthProperties_scope" prompt="snowflak_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwXtuZEe2z193LXs-iPw" comment="" name="snowflak_warehouse" prompt="snowflak_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="DW_MS_BI"/>
+  <contextParameter xmi:id="_kvxwX9uZEe2z193LXs-iPw" comment="" name="snowflak_oauthProperties_oauthUserName" prompt="snowflak_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_kvxwYNuZEe2z193LXs-iPw" comment="" name="snowflak_oauthProperties_oauthPassword" prompt="snowflak_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_kvxwYduZEe2z193LXs-iPw" comment="" name="snowflak_db" prompt="snowflak_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="TEST_MS_BI"/>
+</talendfile:ContextType>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_BbwocL6iEe2Qx-D3llZaiQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Bbwocb6iEe2Qx-D3llZaiQ" comment="" name="rep_files" prompt="rep_files?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/files/"/>
+  <contextParameter xmi:id="_Bbwocr6iEe2Qx-D3llZaiQ" comment="" name="rep_inputs" prompt="rep_inputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/inputs/"/>
+  <contextParameter xmi:id="_Bbwoc76iEe2Qx-D3llZaiQ" comment="" name="rep_outputs" prompt="rep_outputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="h:/Downloads/talend/talend/data/outputs/"/>
+  <contextParameter xmi:id="_BbwodL6iEe2Qx-D3llZaiQ" comment="" name="employe" prompt="employe?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="employees.csv"/>
+  <contextParameter xmi:id="_Bbwodb6iEe2Qx-D3llZaiQ" comment="" name="departement" prompt="departement?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="departments.csv"/>
+  <contextParameter xmi:id="_Bbwodr6iEe2Qx-D3llZaiQ" comment="" name="jobs" prompt="jobs?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="jobs.csv"/>
+  <contextParameter xmi:id="_ZlH1IL6iEe2Qx-D3llZaiQ" comment="" name="employe_denormalise" prompt="employe_denormalise?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="employe_denormalise.csv"/>
+  <contextParameter xmi:id="_U87QEL6kEe2Qx-D3llZaiQ" comment="" name="employe_finance" prompt="employe_finance?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="employe_finance.csv"/>
+  <contextParameter xmi:id="_tmgjkMGGEe21_aiItDommA" comment="" name="donnes_laposte_1" prompt="donnes_laposte_1?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_1.csv"/>
+  <contextParameter xmi:id="_tmgjkcGGEe21_aiItDommA" comment="" name="donnees_laposte_2" prompt="donnees_laposte_2?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_2.csv"/>
+  <contextParameter xmi:id="_tmgjksGGEe21_aiItDommA" comment="" name="donnees_laposte_3" prompt="donnees_laposte_3?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_3.csv"/>
+  <contextParameter xmi:id="_tmgjk8GGEe21_aiItDommA" comment="" name="donnees_laposte_4" prompt="donnees_laposte_4?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_4.csv"/>
+  <contextParameter xmi:id="_tmgjlMGGEe21_aiItDommA" comment="" name="donnes_laposte_merge" prompt="donnes_laposte_merge?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_merge.csv"/>
+  <contextParameter xmi:id="_tmgjlcGGEe21_aiItDommA" comment="" name="donnes_laposte_75" prompt="donnes_laposte_75?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_75.csv"/>
+  <contextParameter xmi:id="_tmgjlsGGEe21_aiItDommA" comment="" name="donnes_laposte_78" prompt="donnes_laposte_78?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_78.csv"/>
+  <contextParameter xmi:id="_tmgjl8GGEe21_aiItDommA" comment="" name="donnes_laposte_93" prompt="donnes_laposte_93?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_93.csv"/>
+  <contextParameter xmi:id="_tmgjmMGGEe21_aiItDommA" comment="" name="donnes_laposte_94" prompt="donnes_laposte_94?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="donnees_laposte_94.csv"/>
+</talendfile:ContextType>
